@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/736x/66/cd/3a/66cd3a4cfce5ee812fed3711bbfb7c55.jpg" width="100"/>
+</div>
 
 <!--
 **angelsalwayscry/angelsalwayscry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
